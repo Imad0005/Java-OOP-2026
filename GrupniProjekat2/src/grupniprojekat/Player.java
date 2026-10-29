@@ -1,3 +1,7 @@
+// Miloš Petrović 24/151
+// Nebojša Pješčić 23/001
+// Imad Guberinić 24/135
+// Almir Pelinković 23/133
 package grupniprojekat;
 
 public class Player extends GameObject {
